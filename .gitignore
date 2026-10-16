@@ -23,3 +23,7 @@ Thumbs.db
 .vscode/*
 !.vscode/settings.json
 .idea/
+
+# Postman: never commit local secrets
+postman/**/*.secret*
+postman/.postman/*vault*
