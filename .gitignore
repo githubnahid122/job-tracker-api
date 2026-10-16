@@ -27,3 +27,7 @@ Thumbs.db
 # Postman: never commit local secrets
 postman/**/*.secret*
 postman/.postman/*vault*
+
+# Postman: never commit local secrets
+postman/**/*.secret*
+postman/.postman/*vault*
